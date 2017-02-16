@@ -4,29 +4,25 @@ title: Projects
 permalink: /projects/
 ---
 
-### [Project 1](https://github.com/tux4kids/tuxmania) 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### [SARndbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/)
+2/10/17 This project comes with an interesting story. Originally the sandbox frame was built by another student around October of 2016. We plopped in the sand and sort of worked with the code. Around march this student abandoned it, where it sat until January 2017. Once it got around to me, it had been neglected for over a year. After a crisp 5 hours of working with the code, It finally would display the topographical map onto the sand. Not without its fair share of bugs
+
+2/16/17 A friend has taken over to roll out bugs and calibration with me, because the displayed lines were not displaying in the correct position. We also are trying to enable the water physics that comes with this project, so as to create working landscapes.
+
 
 ***
 
-### [Project 2](https://github.com/AkshayAgarwal007/Moodly)
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+## Backburner projects
 
-Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+### RC Submarine
 
-***
+  I may have jumped into the deep end with this one. I started by taking a [3D model](http://www.thingiverse.com/thing:6432) of an Iconic German WW2 U-boat, and simply put it together. After doing such I worked on making a driving mechanism. It all was a good learning experience, though I never ended up with a finished project because the print was compromised from the start. I decided to make my own, and as such have designed an XXI class U-boat. Photos to come.
 
-## Other Projects
-
-### This Could Be Another Project Name
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
-   
-### This Could Be Yet Another Project Name
+### Rotating
 
    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[masoneck3@gmail.com](mailto:masoneck3@gmail.com)
