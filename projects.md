@@ -6,6 +6,7 @@ permalink: /projects/
 
 ### [SARndbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/)
 2/10/17 This project comes with an interesting story. Originally the sandbox frame was built by another student around October of 2016. We plopped in the sand and sort of worked with the code. Around march this student abandoned it, where it sat until January 2017. Once it got around to me, it had been neglected for over a year. After a crisp 5 hours of working with the code, It finally would display the topographical map onto the sand. Not without its fair share of bugs
+
 ![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/SARndbox.jpg "SARndbox")
 
 2/16/17 A friend has taken over to roll out bugs and calibration with me, because the displayed lines were not displaying in the correct position. We also are trying to enable the water physics that comes with this project, so as to create working landscapes.
