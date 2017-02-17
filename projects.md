@@ -7,10 +7,10 @@ permalink: /projects/
 ### [SARndbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/)
 2/10/17 This project comes with an interesting story. Originally the sandbox frame was built by another student around October of 2016. We plopped in the sand and sort of worked with the code. Around march this student abandoned it, where it sat until January 2017. Once it got around to me, it had been neglected for over a year. After a crisp 5 hours of working with the code, It finally would display the topographical map onto the sand. Not without its fair share of bugs
 
-![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/SARndbox.jpg "SARndbox")
+![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/SARndbox.jpg?raw=true "SARndbox")
 
 2/16/17 A friend has taken over to roll out bugs and calibration with me, because the displayed lines were not displaying in the correct position. We also are trying to enable the water physics that comes with this project, so as to create working landscapes.
-![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/SARndbox-volcano.jpg "Volcano")
+![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/SARndbox-volcano.jpg?raw=true "Volcano")
 
 
 ***
@@ -20,7 +20,7 @@ permalink: /projects/
 ### RC Submarine
 
   I may have jumped into the deep end with this one. I started by taking a [3D model](http://www.thingiverse.com/thing:6432) of an Iconic German WW2 U-boat, and simply put it together. After doing such I worked on making a driving mechanism. It all was a good learning experience, though I never ended up with a finished project because the print was compromised from the start. I decided to make my own, and as such have designed an XXI class U-boat. Photos to come.
-  ![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/submarine.png "IXC")
+  ![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/submarine.png?raw=true "IXC")
 
 ## Contact me
 
