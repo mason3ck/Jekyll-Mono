@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![alt text](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/black-white.jpg "Yes that is me, no I'm not in black and white, stop asking that")
+![Me](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/black-white.jpg?raw=true "Yes that is me, no I'm not in black and white, stop asking that")
 Currently an American student at Monticello High school.
 Blonde haired blue eyed 18 yo.
 ## Education

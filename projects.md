@@ -9,7 +9,7 @@ permalink: /projects/
 ![SARndbox](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/SARndbox.jpg?raw=true "Ignore the duct tape holding the Kinect on")
 
 2/16/17 A friend has taken over to roll out bugs and calibration with me, because the displayed lines were not displaying in the correct position. We also are trying to enable the water physics that comes with this project, so as to create working landscapes.
-![Volcano](https://github.com/mason3ck/mason3ck.github.io/images/SARndbox-volcano.jpg?raw=true "Not very intimidating when you tower of it, and not the other way around")
+![Volcano](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/SARndbox-volcano.jpg?raw=true "Not very intimidating when you tower of it, and not the other way around")
 
 
 ***
@@ -19,7 +19,7 @@ permalink: /projects/
 ### RC Submarine
 
   I may have jumped into the deep end with this one. I started by taking a [3D model](http://www.thingiverse.com/thing:6432) of an Iconic German WW2 U-boat, and simply put it together. After doing such I worked on making a driving mechanism. It all was a good learning experience, though I never ended up with a finished project because the print was compromised from the start. I decided to make my own, and as such have designed an XXI class U-boat. Photos to come.
-  ![IXC](https://github.com/mason3ck/mason3ck.github.io/images/submarine.png?raw=true "Some pieces didn't print properly, and are being held together via rubber band and being melted together...")
+  ![IXC](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/submarine.png?raw=true =.5x "Some pieces didn't print properly, and are being held together via rubber band and being melted together...")
 
 ## Contact me
 
