@@ -11,7 +11,7 @@ permalink: /projects/
 
 2/16/17 A friend has taken over to roll out bugs and calibration with me, because the displayed lines were not displaying in the correct position. We also are trying to enable the water physics that comes with this project, so as to create working landscapes.
 
-![Volcano](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/SARndbox-volcano.jpg?raw=true =.25x "Not very intimidating when you tower over it, and not the other way around")
+![Volcano](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/SARndbox-volcano.jpg?raw=true =.25x "Not very intimidating when you tower over it, and not the other way around"){ width=50% }
 
 
 ***

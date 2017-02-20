@@ -3,13 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Me](https://github.com/mason3ck/mason3ck.github.io/tree/master/images/black-white.jpg?raw=true "Yes that is me, no I'm not in black and white, stop asking that")
-Currently an American student at Monticello High school.
-Blonde haired blue eyed 18 yo.
+![Me](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/black-white.jpg?raw=true =.5x "Yes that is me, no I'm not in black and white, stop asking that")
+
 ## Education
 
-*  
-* Our Lady of Guadalupe elementary: A Spanish immersion school to teach kids Spanish alongside English
+* []
+* [Our Lady of Guadalupe elementary](A Spanish immersion school to teach kids Spanish alongside English)
 
 ## Roles
 
@@ -47,4 +46,4 @@ Blonde haired blue eyed 18 yo.
 
 ## Contact me
 
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[masoneck3@gmail.com](mailto:masoneck3@gmail.com)
