@@ -7,11 +7,11 @@ permalink: /about/
 
 ## Education
 
-* [#Monticello High School](Currently attending, pretty stereotypical school)
-* [#Monticello High School](Huge school near D.C. which I attended for 1 year)
-* [#Thomas Jefferson Middle School](A very culturally diverse school near D.C.)
-* [#Coastal Middle School](A school I attended in Georgia, which definitely gave me a culture shock)
-* [#Our Lady of Guadalupe elementary](A Spanish immersion school to teach kids Spanish alongside English)
+* #### [Monticello High School](Currently attending, pretty stereotypical school)
+* #### [Monticello High School](Huge school near D.C. which I attended for 1 year)
+* #### [Thomas Jefferson Middle School](A very culturally diverse school near D.C.)
+* #### [Coastal Middle School](A school I attended in Georgia, which definitely gave me a culture shock)
+* #### [Our Lady of Guadalupe elementary](A Spanish immersion school to teach kids Spanish alongside English)
 
 ## Roles
 
