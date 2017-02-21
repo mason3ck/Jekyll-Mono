@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Me](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/black-white.jpg?raw=true)
+![Me](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/black-white.png?raw=true)
 
 ## Education
 
