@@ -4,6 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
+### [Comfortable crutches]
+
+3/3/17 I needed to make some sort of assistive technology, and I noticed that crutches are either uncomfortable or expensive. Thus I set out to create a relatively crude yet, interesting, design. The principal idea is the Y shape at the top, which would cradle your shoulder onto a fitting piece of foam, which you wont see in the photo. 2 more things need to be done to this design though, adjustable heights, and something for your hand to hold onto, though the body is quite comfortable in the hand.
+
+![Crutches](https://github.com/mason3ck/mason3ck.github.io/blob/master/images/crutch.jpg?raw=true "THEY ARE NOT HOCKEY STICKS FOR THE 68th TIME!")
+
 ### [SARndbox](http://idav.ucdavis.edu/~okreylos/ResDev/SARndbox/)
 2/10/17 This project comes with an interesting story. Originally the sandbox frame was built by another student around October of 2016. We plopped in the sand and sort of worked with the code. Around march this student abandoned it, where it sat until January 2017. Once it got around to me, it had been neglected for over a year. After a crisp 5 hours of working with the code, It finally would display the topographical map onto the sand. Not without its fair share of bugs
 
